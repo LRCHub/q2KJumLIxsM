@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Love,Maybe",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-03-05T23:36:11.619364Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love, Maybe",
+      "artist": "MeloMance",
+      "has_synced": true,
+      "path": "select/01_Love,_Maybe_MeloMance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love, Maybe",
+      "artist": "MeloMance",
+      "has_synced": true,
+      "path": "select/02_Love,_Maybe_MeloMance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love, Maybe (Acoustic Ver.)",
+      "artist": "SEJEONG",
+      "has_synced": true,
+      "path": "select/03_Love,_Maybe_(Acoustic_Ver.)_SEJEONG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love, Maybe (Acoustic Ver.) (사랑인가 봐 (Acoustic Ver.))",
+      "artist": "KIMSEJEONG",
+      "has_synced": true,
+      "path": "select/04_Love,_Maybe_(Acoustic_Ver.)_(사랑인가_봐_(Acoustic_Ver.))_KIMSEJEONG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love, Maybe (Acoustic Ver.)",
+      "artist": "KIMSEJEONG",
+      "has_synced": true,
+      "path": "select/05_Love,_Maybe_(Acoustic_Ver.)_KIMSEJEONG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love, Maybe",
+      "artist": "SECRET NUMBER",
+      "has_synced": true,
+      "path": "select/06_Love,_Maybe_SECRET_NUMBER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love, Maybe (사랑인가 봐)",
+      "artist": "SECRET NUMBER",
+      "has_synced": true,
+      "path": "select/07_Love,_Maybe_(사랑인가_봐)_SECRET_NUMBER.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love, Maybe (사랑인가 봐)",
+      "artist": "MeloMance",
+      "has_synced": true,
+      "path": "select/08_Love,_Maybe_(사랑인가_봐)_MeloMance.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love,Maybe(Japanese ver.)",
+      "artist": "SECRET NUMBER",
+      "has_synced": true,
+      "path": "select/09_Love,Maybe(Japanese_ver.)_SECRET_NUMBER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love, Maybe (Acoustic Ver.) (사랑인가 봐 (Acoustic Ver.))",
+      "artist": "KIMSEJEONG",
+      "has_synced": true,
+      "path": "select/10_Love,_Maybe_(Acoustic_Ver.)_(사랑인가_봐_(Acoustic_Ver.))_KIMSEJEONG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love, Maybe",
+      "artist": "MeloMance",
+      "has_synced": true,
+      "path": "select/11_Love,_Maybe_MeloMance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love, Maybe",
+      "artist": "MeloMance",
+      "has_synced": true,
+      "path": "select/12_Love,_Maybe_MeloMance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love,Maybe",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_Love,Maybe_BABYMONSTER.txt"
+    }
+  ]
+}
